@@ -12,3 +12,4 @@ There's also a chance that I'll share an interview with some cool fellow devs I 
 - [**Inaugurating my Log (sort of)**](231014) _(October 14th, 2023)_
 - [**Why I left GameOff 2023**](231130) _(November 30th, 2023)_
 - [**The 2023 recap!**](240104) _(January 4th, 2023)_
+- [**DiddiLeija Tips for having a safe Discord server**](240122) _(January 22th, 2024)_
